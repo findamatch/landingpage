@@ -34,7 +34,12 @@ border-left: 2px solid rgb(197, 123, 197);
 border-bottom: 2px solid rgb(116, 172, 194);
 border-right: 2px solid rgb(116, 172, 194);
 
-
+.inline-img {
+  display: inline;
+  margin: 0 0.125em;
+  padding: 0;
+  vertical-align: baseline;
+}
 }
 @keyframes feed {
     0% {
